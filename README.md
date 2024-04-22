@@ -1,7 +1,7 @@
 
 How to run the project?
 
-1. Create your virtualenv and activate your virtualenv install all libs from requirements.txt by below command.
+1. Create your virtualenv and activate your virtualenv, install all libs from requirements.txt by below command.
 
 pip install -r requirements.txt
 
